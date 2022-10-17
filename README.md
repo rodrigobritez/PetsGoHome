@@ -12,6 +12,12 @@
 
 As a <b>Organization</b>, I would like to register the pets waiting for adoption, so them have a home.
 
+As a <b>Organization</b>, I would like to generate a report of adopts, so i have a controll.
+
+As a <b>Client</b>, I would like to see information of the pet, so i'm prepared for any need.
+
+As a <b>Client</b>, I would like to send my contact, so the company to contact me.
+
 <br />
 
 ## Diagram
