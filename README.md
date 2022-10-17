@@ -16,5 +16,5 @@ As a <b>Organization</b>, I would like to register the pets waiting for adoption
 
 ## Diagram
 <center>
-<img width="100%" src="docs/images/UML.jpeg"/>
+<img width="50%" src="docs/images/UML.jpeg"/>
 </center>
