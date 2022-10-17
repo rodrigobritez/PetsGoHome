@@ -11,3 +11,10 @@
 ## Stories
 
 As a <b>Organization</b>, I would like to register the pets waiting for adoption, so them have a home.
+
+<br />
+
+## Diagram
+<center>
+<img width="100%" src="docs/images/UML.jpeg"/>
+</center>
