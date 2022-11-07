@@ -33,5 +33,5 @@ As a <b>Client</b>, I would like to send my contact, so that the company can con
 
 ## Diagram
 <center>
-<img width="50%" src="docs/images/UML.jpeg"/>
+<img width="50%" src="docs/images/UML.png"/>
 </center>
